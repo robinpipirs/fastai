@@ -1,4 +1,4 @@
-# fastai
+# fast.ai
 markdowns of my jupyter notebook from doing the deep learning class
 
 [Diy model](diy_model/lesson1_robin_from_scratch.md)  
