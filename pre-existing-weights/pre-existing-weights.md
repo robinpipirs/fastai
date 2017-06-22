@@ -1,8 +1,9 @@
 
 # Using existing weights
 
-Set up paths
+```If you're after the h5 file for the vgg16 model please browse the pre-existing-weights folder.```
 
+Set up paths.
 
 ```python
 path = "data/dogscats/"
