@@ -1,7 +1,8 @@
 
 # Using existing weights
 
-```If you're after the h5 file for the vgg16 model please browse the pre-existing-weights folder.```
+```If you're after the h5 file for the vgg16 model please browse the link bellow```
+```https://drive.google.com/open?id=0B7r0szEM79wwMnJkVDA3Y2RFOVE```
 
 Set up paths.
 
